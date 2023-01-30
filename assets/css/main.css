@@ -2996,7 +2996,8 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+
+		height: 15em;
 	}
 
 		body.is-ie .spotlights > section {
@@ -3009,7 +3010,8 @@ input, select, textarea {
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 30em;
+			width: 20em;
+			/*height:10% ;*/
 		}
 
 			.spotlights > section > .image img {
