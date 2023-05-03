@@ -2997,7 +2997,7 @@ input, select, textarea {
 		-ms-flex-direction: row;
 		flex-direction: row;
 
-		height: 10em;
+		height: 16em;
 	}
 
 		body.is-ie .spotlights > section {
